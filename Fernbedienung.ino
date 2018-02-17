@@ -7,9 +7,9 @@
 int RECV_PIN = D2; //an IR detector/demodulatord is connected to GPIO pin D2
 int SEND_PIN = D4; //TX
 // Update these with values suitable for your network.
-const char* ssid     = "ByteBox";
-const char* password = "Byte10$Sport";
-const char* mqtt_server = "192.168.178.28";
+const char* ssid     = "****";
+const char* password = "****";
+const char* mqtt_server = "*****";
 //const char* mqtt_server = "iot.eclipse.org";
 const char* subTopic="Fernbedienung/in/#";
 
